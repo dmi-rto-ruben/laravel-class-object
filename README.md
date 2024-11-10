@@ -1,9 +1,4 @@
-![Laravel Crud Generator](https://banners.beyondco.de/Laravel%20CRUD.png?theme=dark&packageManager=composer+require&packageName=ibex%2Fcrud-generator&pattern=architect&style=style_1&description=Laravel+CRUD+Generator&md=1&showWatermark=0&fontSize=100px&images=gift)
 
-
-![Packagist](https://img.shields.io/badge/Packagist-v2-green.svg?style=flat-square)
-![Licence](https://img.shields.io/badge/Licence-MIT-green.svg?style=flat-square)
-![StyleCI](https://img.shields.io/badge/StyleCI-pass-green.svg?style=flat-square)
 
 
 This Laravel CRUD Generator v2.x package provides and generates Controller, Model (with eloquent relations), and Views in **Bootstrap**/**Tailwind CSS** for the development of your applications with a single command. This new `v2.x` will have stack options like `bootstrap`, `tailwind`, `livewire`(Livewire views will be generated in **Tailwind** CSS), and `API` only.
